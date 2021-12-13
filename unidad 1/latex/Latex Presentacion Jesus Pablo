@@ -1,0 +1,28 @@
+\documentclass[12pt]{article}
+\usepackage[spanish]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\maketitle{1º DAW}
+\author{Jesus Pablo Barba Reyes}
+\date{\today}
+\begin{document}
+ \begin{itemize}
+  \item{Informacion}
+   \item{Deportes que hago}
+   \item{Hobbys}
+   \item{Foto}
+   \paragraph{Informacion}
+    Tengo 19 years Estudie en el Colegio Espiritu Santo (Baena) hice el Bachillerato de ciencias de la salud y ahora curso 1º de Desarrollo Web en Ies Gran Capitan. 
+  \paragraph{Deportes que hago}
+    Me gusta casi todos los deportes pero los que mas me llaman la atencion son el Padel y el futbol.
+  \paragraph{Hobbys}
+  Me gusta salir con los amigos , ver peliculas y series y tambien me gusta viajar
+  \paragraph{Foto}
+     Esta foto fue hecha en el mes de marzo de 2020 en cuarentena
+ \centering
+  
+  \includegraphics[width=6cm,height=5cm]{npdrD2D9_400x400.jpg}
+
+ \end{itemize}
+ 
+\end{document}
